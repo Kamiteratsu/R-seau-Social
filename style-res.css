@@ -1,0 +1,21 @@
+nav {
+	position : fixed;
+	float : left;
+	width : 180px;
+	padding : 10px;
+	text-align : left;
+}
+
+section {
+	float : right;
+	width : 70%;
+	padding : 10px;
+	margin : 0px 10px 0px 10px;
+}
+
+.nouveau_post, article {
+	width : auto;
+	height : auto;
+	padding : 10px;
+	text-align : center;
+}
